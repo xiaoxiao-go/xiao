@@ -249,6 +249,7 @@ form:hover{
       }
       form input{
         border-radius: 15px;
+        width:80px;
       } 
 /*   文字部分     */
       #neirong{
